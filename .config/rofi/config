@@ -1,0 +1,19 @@
+rofi.fullscreen: false
+rofi.color-enabled: true
+!                  'background', 'border', 'separator'
+rofi.color-window: #282a36,      #282a36,  #ff79c6
+!                  'bg',    'fg',    'bgalt'  'hlbg',  'hlfg'
+rofi.color-normal: #282a36, #ffffff, #282a36, #44475a, #ffffff
+rofi.color-active: argb:02000000,#D8DEE9,argb:02000000,argb:02000000,#D8DEE9
+rofi.color-urgent: argb:02000000,#D8DEE9,argb:02000000,argb:02000000,#D8DEE9
+
+rofi.font: System San Francisco Display 14
+rofi.eh: 1
+rofi.line-margin: 20
+rofi.separator-style: solid
+rofi.hide-scrollbar: true
+rofi.lines: 5
+rofi.width: 60
+rofi.padding: 100
+rofi.bw: 0
+rofi.show-icons: true
