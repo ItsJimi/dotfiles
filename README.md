@@ -1,6 +1,6 @@
 # dotfiles
 
-My linux and mac os dotfiles
+My linux dotfiles
 
 ## Dependencies
 
