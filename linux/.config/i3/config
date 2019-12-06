@@ -249,9 +249,9 @@ bar {
 }
 
 # i3-gaps
-smart_gaps on
-gaps inner 4
-gaps outer 2
+# smart_gaps on
+# gaps inner 4
+# gaps outer 2
 
 # startup applications
 exec --no-startup-id feh --bg-fill ~/Pictures/wallpaper.jpg
